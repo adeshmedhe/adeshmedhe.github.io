@@ -1,0 +1,28 @@
+p
+{
+    font-size: 120%;
+    margin-bottom: 0%;
+}
+
+.cake img, .cup_cake img, .ice_cake img
+ { 
+    height: 400px;
+    width: 360px;
+    padding-bottom: 3%;
+ }
+
+ a:hover
+ {
+     background-color: deeppink;
+ }
+
+ button:hover
+ {
+     background-color: deeppink;
+ }
+
+.current
+ {
+    background-color: deeppink;
+ }
+
